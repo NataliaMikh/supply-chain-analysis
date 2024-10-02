@@ -1,0 +1,6 @@
+.env
+shenv/
+*.dylib
+*.so
+*.dll
+*.pdb
