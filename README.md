@@ -29,7 +29,8 @@ The pie chart shows an even distribution of delivery times across these channels
 
 ### **Order Fulfillment Analysis by Warehouse and Sales Channel:**
 The visuals illustrate the distribution of order fulfillment across various warehouses and the impact of different sales channels on each warehouse's operations. The first bar chart shows that WARE-NMK1003 processes the highest number of orders, followed by WARE-PUJ1005, indicating significant operational capacity at these locations. The second stacked bar chart breaks down the order counts from each warehouse by sales channel, revealing that while some warehouses, like WARE-UHY1004 and WARE-NMK1003, predominantly serve Online and In-Store channels, others like WARE-PUJ1005 have a more balanced distribution across all channels, including Distributor and Wholesale. This differentiation may suggest varying strategic focuses or market demands met by each warehouse.
-![Supply Chain Analysis Visualization](https://github.com/NataliaMikh/supply-chain-analysis/blob/main/viz/4.png?raw=true)
+![Supply Chain Analysis](https://github.com/NataliaMikh/supply-chain-analysis/blob/main/viz/4.png?raw=true)
+
 
 ### **Comparative Analysis of Profit Contribution by Warehouse:**
 - The pie chart details the percentage contribution of each warehouse to total profits, with WARE-NMK1003 leading significantly at 31.7%, followed by WARE-PUJ1005 and WARE-UHY1004.
